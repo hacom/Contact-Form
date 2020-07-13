@@ -1,0 +1,22 @@
+.contact-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contato {
+    width: 100%;
+    max-width: 500px;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+}
+.field {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+}
+textarea {
+    height: 150px;
+}
