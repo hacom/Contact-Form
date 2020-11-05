@@ -1,2 +1,2 @@
 # Contact Form
- Contact Form with PHP
+Simple Contact Form with PHP

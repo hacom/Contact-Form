@@ -7,7 +7,7 @@ $email = addslashes($_POST['email']);
 $telefone = addslashes($_POST['telefone']);
 $mensagem = addslashes($_POST['mensagem']);
 
-$to = "contato@axioscorp.com.br";
+$to = "contato@axioscorp.com.br"; // Endereço de e-mail do destino
 $subject = "Contato - AXIOSCORP";
 $body = "Nome: ".$nome. "\r\n".
         "Email: ".$email. "\r\n".
